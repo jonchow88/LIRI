@@ -1,0 +1,27 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "liri",
+  "main": "cancel",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonchow88/LIRI.git"
+  },
+  "author": "Jonathan Chow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonchow88/LIRI/issues"
+  },
+  "homepage": "https://github.com/jonchow88/LIRI#readme",
+  "keywords": [
+    "liri"
+  ],
+  "dependencies": {
+    "request": "^2.87.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
+}
